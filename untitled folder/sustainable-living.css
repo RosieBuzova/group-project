@@ -17,3 +17,10 @@ font-size: 30px;
 div {
     font-family: "American Typewriter", serif;
 }
+
+img {
+    display: flex;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 130px;
+  }
