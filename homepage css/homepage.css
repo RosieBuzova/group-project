@@ -1,4 +1,21 @@
-body {
-  font-family: "American Typewrite, sarif"
-  margin: 0px;
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.h1 {
+  font-size: 70px;
+  text-align: center;
+  font-color: rgb(124, 141, 129);
 }
