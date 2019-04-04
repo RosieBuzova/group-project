@@ -1,0 +1,28 @@
+body {
+ width: 50%;
+ margin:auto;
+ font-family: "American Typewriter", serif;
+ font-family: "arial", sans-serif;
+}
+
+h1 {
+ font-family: "American Typewriter", serif;
+ text-align: center;
+}
+
+h3 {
+font-size: 30px;
+text-align: center;
+}
+
+div {
+    font-family: "American Typewriter", serif;
+    text-align: center;
+}
+
+img {
+    display: flex;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 130px;
+  }
