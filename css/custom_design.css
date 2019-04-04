@@ -1,3 +1,8 @@
 .paragraph {
   text-align: justify;
+  vertical-align: middle;
+}
+
+h3 {
+  text-align: center;
 }
