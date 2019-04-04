@@ -3,6 +3,7 @@ body {
  margin:auto;
  font-family: "American Typewriter", serif;
  font-family: "arial", sans-serif;
+ color: rgb(83, 124, 95);
 }
 
 h1 {
@@ -15,7 +16,7 @@ font-size: 30px;
 text-align: center;
 }
 
-div {
+p {
     font-family: "American Typewriter", serif;
     text-align: center;
 }
@@ -25,4 +26,5 @@ img {
     padding: 20px;
     margin: 0 auto;
     border-radius: 130px;
+
   }
