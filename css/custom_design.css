@@ -1,0 +1,23 @@
+.paragraph {
+  text-align: justify;
+  vertical-align: middle;
+  font-family: serif;
+  color: rgb(83, 124, 95);
+}
+
+h3 {
+  text-align: center;
+  color: rgb(83, 124, 95);
+}
+
+h1 {
+  color: rgb(83, 124, 95);
+}
+
+img {
+  border-color: rgb(83, 124, 95);
+}
+
+img:hover {
+  transform: scale(1.1);
+}
